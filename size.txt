@@ -1,0 +1,6 @@
+91x22 speed: 0.03
+182x44 speed: 0.015
+
+WIDTH = round(1280/(7*2))
+HEIGHT = round(720/(16*2))
+speed = 0.05
